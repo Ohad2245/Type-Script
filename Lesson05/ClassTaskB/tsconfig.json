@@ -1,0 +1,16 @@
+// ctrl + space - basic settings
+{
+    "compilerOptions": {
+        "target":"ES6",
+        // module must be amd for now:
+        "module": "amd", 
+        "sourceMap": true,
+        // outFile - one js file - from compilation of all ts files
+        "outFile": "./out.js"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
+
+// in terminal: tsc
