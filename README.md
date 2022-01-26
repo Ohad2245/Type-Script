@@ -1,4 +1,4 @@
-   # Type-Script
+# Type-Script
 # 01 lesson
 
 - TypeScript is Strongly typed, uses compiler. (JavaScript is not strongly typed, and uses interpreter).
